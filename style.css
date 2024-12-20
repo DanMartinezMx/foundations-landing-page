@@ -1,0 +1,28 @@
+.navigator {
+    background-color: #1F2937;
+    font-family: myRoboto;
+    color: #f9faf8;
+}
+.logo {
+    font-size: 24px;
+}
+.header-link {
+    font-size: 18px;
+    color: #e5e7eb
+}
+.introduction {
+    background-color: #548CA8;
+}
+  
+.main-content {
+    background-color: #476072;
+}
+  
+.contact-us {
+    background-color: #334257;
+}
+
+@font-face {
+    font-family: myRoboto;
+    src: url(/fonts/Roboto/Roboto-Regular.ttf);
+  }
